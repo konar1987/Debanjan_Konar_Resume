@@ -1,12 +1,10 @@
-# Debanjan Konar, Ph.D.
-****Postdoctoral Researcher****
-****CASUS - Center for Advanced Systems Understanding****
+# Debanjan Konar, Ph.D. 
+****Postdoctoral Researcher**** <br>
+****CASUS - Center for Advanced Systems Understanding****<br>
 ****Helmholtz-Zentrum Dresden-Rossendorf (HZDR)****
 Untermarkt 20, 02826 Görlitz, Germany
 Email: d.konar@hzdr.de
-
-
-
+##
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/konar1987/Debanjan_Konar_Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
